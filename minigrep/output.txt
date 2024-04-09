@@ -1,0 +1,5 @@
+["target/debug/minigrep", "to", "text.txt"]
+Searching for to
+In file text.txt
+Are you nobody, too?
+How dreary to be somebody!
